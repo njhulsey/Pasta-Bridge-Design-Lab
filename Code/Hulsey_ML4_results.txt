@@ -1,0 +1,5 @@
+                                             Bridge #1    Bridge #2
+Maximum Load (lbs):                          8.14         15.62
+Toughness by catastrophic failure (in-lbs):  2.78         0.76
+Strength to Weight Ratio:                    29.81        69.41
+Toughness to Weight Ratio:                   10.17        3.37
